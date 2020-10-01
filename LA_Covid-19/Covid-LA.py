@@ -52,3 +52,4 @@ else:
 
 	df.to_csv(os.path.join(dataDir ,'2020-' + day+' Covid-Data.csv'), index=False, header=True, sep=' ')
 
+
